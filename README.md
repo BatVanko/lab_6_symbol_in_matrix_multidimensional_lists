@@ -1,0 +1,1 @@
+# lab_6_symbol_in_matrix_multidimensional_lists
